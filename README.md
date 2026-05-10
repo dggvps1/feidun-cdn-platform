@@ -56,11 +56,11 @@
 
 ---
 
-## 🌐 加入我们
+## 🌐 联系我们
 
 - 官网：[feiduncdn.com](https://feiduncdn.com)  
-- Telegram 社群：[加入讨论](https://t.me/yourgroup)  
-- 联系邮箱：support@feiduncdn.com  
+- Telegram 联系：[https://t.me/nodem_bot?start=start](https://t.me/nodem_bot?start=start)  
+- 联系邮箱：feiduncdn@outlook.com  
 
 ---
 
